@@ -23,8 +23,10 @@ def describe_pet(animal_type, animal_name = 'Jacky'):
 describe_pet('hamster', 'Roche')
 describe_pet('Dog')
 
-# When you use default values, any parameter with a default value needs to be listed
-# after all the parameters that don’t have default values. This allows Python to 
+# When you use default values, any parameter with a default value 
+# needs to be listed
+# after all the parameters 
+# that don’t have default values. This allows Python to 
 # continue interpreting positional arguments correctly.
 
 # --> Equivalent Function calls
